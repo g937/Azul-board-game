@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\HP\Documents\SZE\2. félév\Programozás\Házi\Végleges\Azul\Azul\Source.cpp(693,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\Documents\SZE\2. félév\Programozás\Házi\Végleges\Azul\Azul\Source.cpp(709,15): warning C4101: 'm': unreferenced local variable
+C:\Users\HP\Documents\SZE\2. félév\Programozás\Házi\Végleges\Azul\Azul\Source.cpp(670): warning C4715: 'Kpozicio': not all control paths return a value
+  Azul.vcxproj -> C:\Users\HP\Documents\SZE\2. félév\Programozás\Házi\Végleges\Azul\Debug\Azul.exe
